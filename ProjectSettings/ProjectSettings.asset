@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Spin Casino
+  productName: com.slotols.mania
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -154,7 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.flipspincasino.slot
+    Android: com.slotols.mania
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
     Standalone: 0
@@ -249,7 +249,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: user.keystore'
-  AndroidKeyaliasName: awfgr
+  AndroidKeyaliasName: fetttw
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
@@ -760,10 +760,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 8db74726-b57f-4a6e-b70c-dc9cc27fa978
+  cloudProjectId: 0df99754-ba32-4774-a021-3ef9f54f4d3c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: com.flipspincasino.slot
+  projectName: com.slotols.mania
   organizationId: alextraffic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
