@@ -151,7 +151,6 @@ public class ViewManager : MonoBehaviour
 	void Init()
 	{
         Screen.orientation = ScreenOrientation.AutoRotation;
-		new GameObject("Manager").AddComponent<Flipmorris.Manager>();
 
         GameObject.Find("bar").SetActive(false);
         GameObject.Find("iconapp").SetActive(false);
